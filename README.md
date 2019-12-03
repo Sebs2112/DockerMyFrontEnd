@@ -1,0 +1,1 @@
+MongDB - Node Express - React - Redux -Let's see what happens
